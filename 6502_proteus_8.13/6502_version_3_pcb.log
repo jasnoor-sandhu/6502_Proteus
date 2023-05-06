@@ -1,0 +1,9 @@
+# Writing all output to: \\Mac\Home\Downloads\Final_Exploratory_Project\6502_version_3_pcb.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5

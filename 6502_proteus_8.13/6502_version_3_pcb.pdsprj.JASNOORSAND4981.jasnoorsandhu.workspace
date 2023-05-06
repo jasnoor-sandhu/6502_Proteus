@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="1">
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff86000000c1000000db0a0000d0060000</PLACEMENT>
+  <WINDOW type="default" module="ISIS">
+   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="364" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
+    <world y1="-19050000" x1="-26670000" y2="19050000" x2="26670000"/>
+    <centre x="-6604000" y="-7112000"/>
+    <origin x="0" y="0"/>
+   </editor>
+  </WINDOW>
+  <WINDOW type="default" module="ARES">
+   <editor metric="1" gridmajor="10000000" mode="00000000" zoom="-1" scale="180" flipped="0" gridminor="250000" gridmode="0" snapidx="3" snap="250000" xcursor="0" orgmode="0" snaprange="125000">
+    <world y1="-5080000" x1="-6350000" y2="5080000" x2="6350000"/>
+    <centre x="254000" y="-1369000"/>
+    <origin x="0" y="0"/>
+   </editor>
+  </WINDOW>
+ </FRAME>
+ <MODULE name="ARES">
+  <editor metric="1" gridmajor="10000000" mode="00000000" zoom="-1" scale="180" flipped="0" gridminor="250000" gridmode="0" snapidx="3" snap="250000" xcursor="0" orgmode="0" snaprange="125000">
+   <world y1="-5080000" x1="-6350000" y2="5080000" x2="6350000"/>
+   <centre x="254000" y="-1369000"/>
+   <origin x="0" y="0"/>
+  </editor>
+ </MODULE>
+ <MODULE name="ISIS">
+  <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="364" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
+   <world y1="-19050000" x1="-26670000" y2="19050000" x2="26670000"/>
+   <centre x="-6604000" y="-7112000"/>
+   <origin x="0" y="0"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
